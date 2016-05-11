@@ -1,0 +1,16 @@
+PODS:
+  - Alamofire (3.4.0)
+  - Freddy (2.1.0)
+  - SwiftSpinner (0.9.5)
+
+DEPENDENCIES:
+  - Alamofire
+  - Freddy
+  - SwiftSpinner
+
+SPEC CHECKSUMS:
+  Alamofire: c19a627cefd6a95f840401c49ab1f124e07f54ee
+  Freddy: bbdca013977db29638b24baf6572ce94452bec29
+  SwiftSpinner: c6585a0ae5c67eb33e737695cce88f0262008cce
+
+COCOAPODS: 0.39.0
